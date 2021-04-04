@@ -7,4 +7,5 @@ This EDA project shows:
 - The individuals who had a glucose reading less than 100 and a Blood Pressure greater than 80.
 - How many individuals are of a certain age.
 - How many people were pregnant a certain number of times
-- THe percentage of people how had a certain number of pregnancies.
+- The percentage of people how had a certain number of pregnancies.
+- The average number of pregnancies per age group
